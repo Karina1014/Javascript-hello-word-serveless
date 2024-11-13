@@ -54,3 +54,18 @@ Make sure you have Node.js and npm installed. You can check your Node.js version
 ```sh
 node --version
 ```
+### Running the Server
+
+To run the Express server, follow these steps:
+
+1. Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
+2. Navigate to the project directory:
+
+ ```sh
+   cd Javascript-hello-word
+```
+
+### Testing the Application
+
+Once the server is running, you can test if it's working correctly by opening a browser and navigating to:
+   
